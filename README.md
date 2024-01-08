@@ -15,9 +15,9 @@ To install the Ekran MacOS Client locally on the target computer using the insta
 4. To ensure proper operation of the Client, you need to grant the Accessibility permission for the EkranAgentClient application.
 
    Accesibility permissions for the EkranAgentClient application. 
-  ![mac1](https://github.com/mice-love-rice/S01/assets/126450125/8fd5774a-53da-4147-8e50-0d6ac5621834)
-   
+   ![mac1](https://github.com/EK-S01/SOP-Ekran/assets/155951419/29b08aa0-7afe-44c0-a652-3d3080719114)
+
    Screen Recording permissions for the EkranAgentClient application. 
-  ![mac2](https://github.com/mice-love-rice/S01/assets/126450125/99645e2b-e790-41b6-974a-1e0a0b9ac488)
+   ![mac2](https://github.com/EK-S01/SOP-Ekran/assets/155951419/492146ac-11de-4182-b7a2-e8713fdfd688)
 
 5. Pleasse contact Ekran Administrator once done in installation process. Thank you!
