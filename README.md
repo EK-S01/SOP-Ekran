@@ -16,10 +16,8 @@ To install the Ekran MacOS Client locally on the target computer using the insta
 
 4 Go to launchpad. Find the ekran system client and click. 
 
-    ![photo_61208784966675157781_y](https://github.com/EK-S01/SOP-Ekran/assets/155951419/f91a2960-c6ae-4a2e-a156-c345291b496f)
+    ![photo_61208784966675157781_y](https://github.com/EK-S01/SOP-Ekran/assets/155951419/5f0c411c-8767-4755-a23f-bd1a8c206ca9)
 
-    
-    ![photo_61208784966675157681_x](https://github.com/EK-S01/SOP-Ekran/assets/155951419/43764dc8-5b0e-43b1-9ded-80eb1b67146d)
 
 5. To ensure proper operation of the Client, you need to grant the Accessibility permission for the EkranAgentClient application.
 
