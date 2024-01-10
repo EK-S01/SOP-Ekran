@@ -1,4 +1,4 @@
-![photo_6120878496667515760_y](https://github.com/EK-S01/SOP-Ekran/assets/155951419/c67f35d3-b157-4ebe-be72-a44d5a8c5ccb)# SOP - Install Ekran MacOS Client Locally for S01
+# SOP - Install Ekran MacOS Client Locally for S01
 
 To install the Ekran MacOS Client locally on the target computer using the installation package, do the following:
 1. Click EkranSystemClient.zip  and Download EkranSystemMacOSClientx64.tar.gz
