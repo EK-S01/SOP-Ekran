@@ -9,7 +9,8 @@ To install the Ekran MacOS Client locally on the target computer using the insta
     ![photo_6120878496667515770_x](https://github.com/EK-S01/SOP-Ekran/assets/155951419/3fd399e8-de13-4690-bcca-f93c2814c00c)
 
     ![photo_6120878496667515769_x](https://github.com/EK-S01/SOP-Ekran/assets/155951419/20a61eea-8906-49fa-b4db-5525337074a5)
-
+   
+3. Enter the password of user
     ![photo_6120878496667515767_x](https://github.com/EK-S01/SOP-Ekran/assets/155951419/e2bc9473-9dba-4b47-b4c5-04c0a5692bab)
 
     ![photo_61208784966675157781_y](https://github.com/EK-S01/SOP-Ekran/assets/155951419/f91a2960-c6ae-4a2e-a156-c345291b496f)
