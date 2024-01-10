@@ -18,6 +18,10 @@ To install the Ekran MacOS Client locally on the target computer using the insta
 
    ![photo_61208784966675157781_y](https://github.com/EK-S01/SOP-Ekran/assets/155951419/6079ea48-543b-4787-b8c2-c47941ecdf4b)
 
+5. After clicking Ekran Client System, below picture will appear. Kindly input the Server IP and Port.
+
+   ![photo_61208784966675157681_x](https://github.com/EK-S01/SOP-Ekran/assets/155951419/5a28bd30-c878-4394-96c3-d91b906f9d43)
+
 
 5. To ensure proper operation of the Client, you need to grant the Accessibility permission for the EkranAgentClient application.
 
