@@ -25,10 +25,11 @@ To install the Ekran MacOS Client locally on the target computer using the insta
 
 5. To ensure proper operation of the Client, you need to grant the Accessibility permission for the EkranAgentClient application.
 
-   Accesibility permissions for the EkranAgentClient application. 
+   Go to Privacy and Setting
+   Allow Ekran System Client
    ![mac1](https://github.com/EK-S01/SOP-Ekran/assets/155951419/29b08aa0-7afe-44c0-a652-3d3080719114)
 
    Screen Recording permissions for the EkranAgentClient application. 
    ![mac2](https://github.com/EK-S01/SOP-Ekran/assets/155951419/492146ac-11de-4182-b7a2-e8713fdfd688)
 
-6. Pleasse contact Ekran Administrator once done in installation process. Thank you!
+7. Pleasse contact Ekran Administrator once done in installation process. Thank you!
